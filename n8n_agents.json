@@ -1,0 +1,35 @@
+{
+  "n8n_base": "https://dongle036-n8n.dochelper.org",
+  "agents": {
+    "Luna": {
+      "webhook": "/webhook/hireai/luna"
+    },
+    "Max": {
+      "webhook": "/webhook/hireai/max"
+    },
+    "Emma": {
+      "webhook": "/webhook/hireai/emma"
+    },
+    "Sarah": {
+      "webhook": "/webhook/hireai/sarah"
+    },
+    "Mike": {
+      "webhook": "/webhook/hireai/mike"
+    },
+    "Alex": {
+      "webhook": "/webhook/hireai/alex"
+    },
+    "Rachel": {
+      "webhook": "/webhook/hireai/rachel"
+    },
+    "David": {
+      "webhook": "/webhook/hireai/david"
+    },
+    "Lisa": {
+      "webhook": "/webhook/hireai/lisa"
+    },
+    "Tom": {
+      "webhook": "/webhook/hireai/tom"
+    }
+  }
+}
