@@ -159,7 +159,7 @@ def call_n8n_agent(agent_name, user_message, session_id=None):
         print(f"n8n call failed ({url}): {e}")
         return None
 
-def call_llm(messages, model="anthropic/claude-3-haiku"):
+def call_llm(messages, model="nvidia/nemotron-3-ultra-550b-a55b:free"):
     """Fallback: Call LLM via OpenRouter API"""
 
     try:
