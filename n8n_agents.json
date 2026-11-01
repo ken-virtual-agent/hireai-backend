@@ -2,7 +2,7 @@
   "n8n_base": "https://dongle036-n8n.dochelper.org",
   "agents": {
     "Luna": {
-      "webhook": "/webhook/agent/chat"
+      "webhook": "/webhook/agent/luna"
     },
     "Max": {
       "webhook": "/webhook/hireai/max"
